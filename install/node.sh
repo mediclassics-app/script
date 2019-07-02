@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Install node with nvm"
 # set curl as insecure mode first
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash

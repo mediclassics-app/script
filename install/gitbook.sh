@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Install Gitbook-cli"
 npm install -g gitbook-cli
 echo "Install Gitbook"

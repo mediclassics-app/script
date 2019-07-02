@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # curl
 echo insecure >> ~/.curlrc
 

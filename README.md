@@ -3,14 +3,18 @@
 
 ## 사용법
 
-`min_img.sh`를 실행시킬 경우
+`image/minimize.sh`를 실행시킬 경우
 
 
 ```bash
-SCRIPTNAME="min_img.sh"
+SCRIPTNAME="image/minimize.sh"
 bash -c "$(curl -s https://raw.githubusercontent.com/mediclassics-app/script/master/${SCRIPTNAME})"
 ```
 
 ```bash
-bash -c "$(curl -s https://raw.githubusercontent.com/mediclassics-app/script/master/min_img.sh)"
+bash -c "$(curl -s https://raw.githubusercontent.com/mediclassics-app/script/master/image/minimize.sh)"
 ```
+
+## REF
+
+* [Bash shell find out if a variable has NULL value OR not](https://www.cyberciti.biz/faq/bash-shell-find-out-if-a-variable-has-null-value-or-not/)
